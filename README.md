@@ -1,2 +1,2 @@
-# JS-Course
+# JS Course
 ![](assets/logo.png)
