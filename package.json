@@ -1,0 +1,31 @@
+{
+  "name": "js-course",
+  "version": "1.0.0",
+  "description": "A complete JavaScript course from fundamentals to advanced concepts with exercises and projects.",
+  "author": "Lazaro549",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "learning",
+    "course",
+    "tutorial",
+    "nodejs",
+    "frontend"
+  ],
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
