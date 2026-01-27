@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>07 - DOM Manipulation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    .box {
+      width: 150px;
+      height: 150px;
+      background-color: steelblue;
+      margin: 10px 0;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    button {
+      margin-right: 10px;
+      padding: 8px 12px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 id="title">DOM Manipulation</h1>
+
+  <p class="description">
+    JavaScript can read, change, and react to HTML.
+  </p>
+
+  <button id="changeTextBtn">Change Text</button>
+  <button id="toggleBoxBtn">Toggle Box</button>
+
+  <div class="box" id="box"></div>
+
+  <ul id="list">
+    <li>Item 1</li>
+    <li>Item 2</li>
+  </ul>
+
+  <!-- Load scripts -->
+  <script src="./dom-selectors.js"></script>
+  <script src="./dom-events.js"></script>
+  <script src="./dom-manipulation.js"></script>
+  <script src="./exercises.js"></script>
+</body>
+</html>
