@@ -1,11 +1,13 @@
 # 🔒 JavaScript Premium Content
 
-Este directorio contiene **contenido exclusivo** del curso JavaScript Premium.
+This directory contains **exclusive content** for students enrolled in the
+**JavaScript Premium Course**.
 
-Incluye:
-- Internals de JavaScript
-- Testing profesional
-- Proyecto final evaluado
-- Preparación laboral real
+Included:
+- JavaScript internals (how JS really works)
+- Professional testing practices
+- Final real-world project
+- Career and interview preparation
 
-❗ Acceso solo para alumnos premium.
+❗ Access is restricted to premium students only.
+
