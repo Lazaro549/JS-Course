@@ -66,4 +66,10 @@ Each section contains:
    ```bash
    node filename.js
 4. For DOM projects, open `index.html` in your browser.
+## ❤️ Support this project
+
+If you find this project useful, consider supporting it via GitHub Sponsors.  
+Your support helps maintain and improve the project.
+
+👉 [Become a Sponsor](https://github.com/sponsors/Lazaro549)
 
